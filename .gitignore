@@ -1,0 +1,6 @@
+*.bc
+*.exe
+a.out
+
+klee-last
+klee-out-*
