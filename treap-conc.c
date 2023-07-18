@@ -6,7 +6,7 @@
 
 struct node {
   struct node *lhs, *rhs;
-  char const *key; 
+  char const *key;
 }* root = NULL;
 
 static uint64_t priority(void *p) { 
